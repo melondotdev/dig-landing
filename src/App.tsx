@@ -28,7 +28,7 @@ function App() {
         </div>
         <div className="relative container mx-auto px-6 py-16 text-center">
           <img 
-            src="/dig.png" 
+            src="/assets/dig.png" 
             alt="DIG Token Logo" 
             className="w-32 h-32 mx-auto mb-8 pixel-border"
           />
